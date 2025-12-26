@@ -1,6 +1,6 @@
 {
-    "name": "Farri AI",
-    "short_name": "FarriAI",
+    "name": "Farri Text-to-Speech",
+    "short_name": "FarriTTS",
     "start_url": "/",
     "display": "standalone",
     "background_color": "#0b0b0c",
