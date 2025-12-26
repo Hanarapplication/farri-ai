@@ -7,6 +7,11 @@ export const metadata: Metadata = {
   description:
     "An interactive demo for developers to try text-to-speech using the OpenAI API",
   authors: [{ name: "Farri.ai" }],
+
+  // ✅ PWA
+  manifest: "/manifest.webmanifest",
+  themeColor: "#0b0b0c",
+
   openGraph: {
     title: "Farri.ai",
     description:
